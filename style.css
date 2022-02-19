@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    color: brown;
+    margin: 100px auto;
+    width: 500px;
+    border: 1px solid white;
+    padding: 20px;
+    background-color: black;
+}
+
+div {
+    background-color: white;
+    padding: 20px;
+    margin: 50px;
+    overflow: hidden;
+}
+
+h1 {
+    Color: red;
+}
+
+.alu {
+    color: blue;
+}
+
+#potol {
+    color: teal;
+}
+
+h4,
+h5,
+h6 {
+    color: yellow;
+}
+
+p {
+    color: cadetblue;
+}
+
+mark {
+    background-color: green;
+}
+
+ul li {
+    list-style-type: lower-alpha;
+}
+
+ol li {
+    list-style-type: disc;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
